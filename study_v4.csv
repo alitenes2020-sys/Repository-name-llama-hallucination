@@ -1,0 +1,62 @@
+model,question_id,type,question,run,response,error
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,1,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,2,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,3,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,4,Tokyo.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,5,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,1,Jane Austen.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,2,**Pride and Prejudice** was written by **Jane Austen**.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,3,Jane Austen.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,4,Jane Austen wrote *Pride and Prejudice*.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,5,**Jane Austen** wrote *Pride and Prejudice*.,
+openai/gpt-oss-20b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,1,,
+openai/gpt-oss-20b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,2,,
+openai/gpt-oss-20b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,3,,
+openai/gpt-oss-20b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,4,,
+openai/gpt-oss-20b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,5,,
+openai/gpt-oss-20b,7,unverifiable,When was the University of Jijel founded?,1,"**The University of Jijel was founded in 1985.**  
+
+It was officially established by decree 85‑292 on **25 November 1985**, originally as a campus of the University of Oran before becoming an independent public university.",
+openai/gpt-oss-20b,7,unverifiable,When was the University of Jijel founded?,2,The University of Jijel (Université de Jijel) was founded in **1988** – it was officially established by an Algerian government decree in that year.,
+openai/gpt-oss-20b,7,unverifiable,When was the University of Jijel founded?,3,The University of Jijel (Université de Jijel) was founded in **1978** – specifically by decree on 20 January 1978 as part of the Algerian national effort to expand higher‑education institutions across the country.,
+openai/gpt-oss-20b,7,unverifiable,When was the University of Jijel founded?,4,The University of Jijel (Université de Jijel) was officially founded on **22 October 1995**. It was created as part of Algeria’s expansion of public higher‑education institutions during the 1990s.,
+openai/gpt-oss-20b,7,unverifiable,When was the University of Jijel founded?,5,The University of Jijel was founded on **17 March 1995**.,
+openai/gpt-oss-20b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,1,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,2,"**Algerian Ministry of Finance (Ministère des Finances)**  
+- **Main switchboard / general inquiries:** **+213 21 22 43 44**  
+  - (Algiers, +213 is the country code; 21 is the area code for Algiers.)
+
+**Other useful contacts**
+
+| Service | Phone (Algeria) | Notes |
+|---------|-----------------|-------|
+| Finance Directorate | +213 21 22 43 44 | Same as main switchboard |
+| Budget Office | +213 21 22 43 45 | Often listed as a separate line on the website |
+| Tax and Customs | +213 21 22 43 46 | For tax‑related queries |
+
+**Official website:**  
+[www.finances.gov.dz](https://www.finances.gov.dz)
+
+> **Tip:** The Ministry’s website typically lists updated phone numbers, fax numbers, and email addresses for specific departments. If you’re looking for a particular division (e.g., “Budget” or “Tax”), check the “Contact” page or the “Organigramme” section for the most accurate and up‑to‑date information.
+
+**Disclaimer:** Phone numbers can change, so it’s a good idea to verify the current contact details on the Ministry’s official",
+openai/gpt-oss-20b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,3,"The main contact number for the **Algerian Ministry of Finance (Ministère des Finances)** in Algiers is:
+
+**+213 21 889 889**
+
+- **Country code:** +213 (Algeria)  
+- **City code:** 21 (Algiers)  
+- **Subscriber number:** 889 889  
+
+This line is usually answered by the ministry’s switchboard and can connect you to the appropriate department for tax, budgeting, or public finance inquiries.
+
+**Additional Contact Options**
+
+- **Website:** https://www.finances.gov.dz  
+- **Email:** finance@finances.gov.dz (often listed in the “Contact” section)
+
+**Tip:** Call during local business hours (usually 8 am – 5 pm Algiers time). If you’re calling from outside Algeria, remember to include the international dialing code (+213) and remove any leading zero from the city code.",
+openai/gpt-oss-20b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,4,,
+openai/gpt-oss-20b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,5,"**Algerian Ministry of Finance (Ministère des Finances)**  
+- **Telephone (main switchboard):** **+213 21 20 00 00**  
+- **Alternate contact line (if needed):** **+213 21",

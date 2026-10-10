@@ -1,0 +1,224 @@
+model,question_id,type,question,run,response,error
+qwen/qwen3.8-27b,1,factual,What is the capital of France?,1,The capital of France is **Paris**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of France?,2,"The capital of France is **Paris**.
+
+It is the largest city in France and serves as the country's political, economic, and cultural center. Paris is located on the Seine River in the north-central part of the country and has been the capital since the 10th century.",
+qwen/qwen3.8-27b,1,factual,What is the capital of France?,3,"The capital of France is **Paris**.
+
+It is the largest city in France and serves as the country's main center for politics, culture, economy, and education.",
+qwen/qwen3.8-27b,2,factual,Who wrote the play Hamlet?,1,"The play *Hamlet* was written by **William Shakespeare**.
+
+Generally believed to have been written between 1599 and 1602, *Hamlet* is one of Shakespeare's most famous tragedies. It is part of his canon of 37 plays and is renowned for its exploration of themes such as revenge, corruption, existentialism, and appearance versus reality.",
+qwen/qwen3.8-27b,2,factual,Who wrote the play Hamlet?,2,"The play *Hamlet* was written by **William Shakespeare**.
+
+It is one of his most famous tragedies, believed to have been written between 1599 and 1601.",
+qwen/qwen3.8-27b,2,factual,Who wrote the play Hamlet?,3,"The play *Hamlet* was written by **William Shakespeare**.
+
+It is one of his most famous tragedies, believed to have been written between **1599 and 1601**. The play is part of his canon of works and is considered a masterpiece of English literature.",
+qwen/qwen3.8-27b,3,factual,What is the boiling point of water in Celsius at sea level?,1,"At sea level, the boiling point of water is **100°C**.
+
+### Explanation:
+*   **Standard Atmospheric Pressure:** At sea level, the standard atmospheric pressure is defined as 101.325 kPa (or 1 atmosphere).
+*   **Phase Change:** Under this specific pressure, liquid water transforms into water vapor (gas) when heated to 100 degrees on the Celsius scale.
+*   **Variation:** Note that the boiling point changes with altitude. As you go higher above sea level, atmospheric pressure decreases, causing water to boil at a temperature lower than 100°C. Conversely, under higher pressure, water boils at a temperature higher than 100°C",
+qwen/qwen3.8-27b,3,factual,What is the boiling point of water in Celsius at sea level?,2,"### Logical Deduction
+
+1.  **Definition of the Standard**: The boiling point of a liquid is the temperature at which its vapor pressure equals the ambient pressure. By international standard, ""sea level"" is defined as a pressure of **1 atmosphere (1 atm)**.
+2.  **Celsius Scale Definition**: The Celsius temperature scale was historically defined using two fixed points:
+    *   The melting point of ice is $0^\circ\text{C}$.
+    *   The boiling point of water (at 1 atm) is **$100^\circ\text{C}$**.
+3.  **Scientific Precision**: While the modern definition of the Kelvin scale (and thus Celsius) is based on",
+qwen/qwen3.8-27b,3,factual,What is the boiling point of water in Celsius at sea level?,3,"### Logical Deduction
+
+1.  **Definition of Boiling Point**: The boiling point of a liquid is the temperature at which its vapor pressure equals the external pressure surrounding the liquid.
+2.  **Standard Atmospheric Pressure**: At sea level, the standard atmospheric pressure is defined as 1 atmosphere (atm), which is equivalent to 101.325 kilopascals (kPa) or 760 millimeters of mercury (mmHg).
+3.  **Temperature Scale**: The Celsius scale is a metric unit of temperature. By definition, the freezing point of water is $0^\circ\text{C}$ and the boiling point of water is $100^\circ\text{C",
+qwen/qwen3.8-27b,4,factual,In what year did World War II end?,1,"World War II ended in **1945**.
+
+*   In Europe, the war ended on **May 8, 1945** (V-E Day), following Germany's unconditional surrender.
+*   In the Pacific, the war ended on **September 2, 1945**, when Japan formally signed the instrument of surrender aboard the USS *Missouri*.",
+qwen/qwen3.8-27b,4,factual,In what year did World War II end?,2,"World War II ended in **1945**.
+
+Specifically:
+*   **Germany** surrendered unconditionally on **May 8, 1945** (known as V-E Day in Europe).
+*   **Japan** formally surrendered on **September 2, 1945**, following the announcement of surrender on August 15, 1945, which is often commemorated as V-J Day.",
+qwen/qwen3.8-27b,4,factual,In what year did World War II end?,3,"World War II ended in **1945**.
+
+Here are the key dates marking the end of the war:
+*   **May 8, 1945 (V-E Day):** Germany surrendered unconditionally, ending the war in Europe.
+*   **August 15, 1945:** Japan announced its surrender to the Allied Powers.
+*   **September 2, 1945:** Japan formally signed the Instrument of Surrender aboard the USS *Missouri*, officially ending the war.",
+qwen/qwen3.8-27b,5,factual,Who painted the Mona Lisa?,1,"The **Mona Lisa** was painted by the Italian Renaissance artist **Leonardo da Vinci**.
+
+He is believed to have worked on the painting between 1503 and 1519, with the exact timeline and completion date still debated among art historians. The subject is generally identified as **Lisa Gherardini**, the wife of Florentine merchant Francesco del Giocondo, which is why the painting is also known as *La Gioconda*.
+
+Today, the Mona Lisa is housed in the **Louvre Museum** in Paris, France, where it is one of the most visited and famous artworks in the world.",
+qwen/qwen3.8-27b,5,factual,Who painted the Mona Lisa?,2,"The *Mona Lisa* was painted by the Italian Renaissance artist **Leonardo da Vinci**.
+
+He is believed to have worked on the painting between 1503 and 1506, though some art historians suggest he may have continued refining it until his death in 1519. The painting is currently housed in the Louvre Museum in Paris, France.",
+qwen/qwen3.8-27b,5,factual,Who painted the Mona Lisa?,3,"The *Mona Lisa* was painted by the Italian Renaissance artist **Leonardo da Vinci**.
+
+He is believed to have started the work around 1503 and continued to refine it for several years, likely finishing it around 1506 or later. The painting is now housed in the Louvre Museum in Paris, France.",
+qwen/qwen3.8-27b,6,factual,What is the chemical symbol for gold?,1,"The chemical symbol for gold is **Au**.
+
+### Explanation:
+The symbol **Au** is derived from the Latin word for gold, **Aurum**. This is a common practice in chemistry, where elements are often named based on their Latin, Greek, or historical names (for example, Silver is *Ag* from *Argentum*, and Sodium is *Na* from *Natrium*).
+
+**Final Answer:** **Au**",
+qwen/qwen3.8-27b,6,factual,What is the chemical symbol for gold?,2,"The chemical symbol for gold is **Au**.
+
+### Logical Deduction:
+1.  **Origin of the Symbol**: The symbol **Au** is derived from the Latin word for gold, ***Aurum***.
+2.  **Historical Context**: While the standard chemical symbols for most elements are derived from their English names (e.g., Fe for Iron, W for Tungsten), gold retains its symbol derived from its Latin name, which is a common practice for elements known since antiquity.
+
+### Final Answer:
+The chemical symbol for gold is **Au**.",
+qwen/qwen3.8-27b,6,factual,What is the chemical symbol for gold?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,7,factual,How many continents are there on Earth?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,7,factual,How many continents are there on Earth?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,7,factual,How many continents are there on Earth?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,8,factual,What is the largest ocean on Earth?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,8,factual,What is the largest ocean on Earth?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,8,factual,What is the largest ocean on Earth?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,9,factual,Who was the first person to walk on the Moon?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,9,factual,Who was the first person to walk on the Moon?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,9,factual,Who was the first person to walk on the Moon?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,10,factual,What is the speed of light in a vacuum (in km/s)?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,10,factual,What is the speed of light in a vacuum (in km/s)?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,10,factual,What is the speed of light in a vacuum (in km/s)?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,11,obscure,What was the exact revenue of Company Atlas in Algeria in 2023?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,11,obscure,What was the exact revenue of Company Atlas in Algeria in 2023?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,11,obscure,What was the exact revenue of Company Atlas in Algeria in 2023?,3,"There is no publicly available data regarding the exact revenue of a company named ""Company Atlas"" in Algeria for 2023.
+
+It is highly likely that ""Company Atlas"" is not a specific, publicly traded corporation with disclosed financial statements, or it may be a private, local, or subsidiary entity whose financial details are not made public. Additionally, ""Atlas"" is a common name used by various businesses in Algeria (such as *Atlas Group*, *Atlas Real Estate*, or other local firms), but none are widely recognized as a single major entity with globally reported 2023 revenue figures.
+
+If you are referring to a specific well-known multinational with ""Atlas"" in its name (e.g., *Atlas Copco*,",
+qwen/qwen3.8-27b,12,obscure,Who was the 47th president of the United States?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,12,obscure,Who was the 47th president of the United States?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,12,obscure,Who was the 47th president of the United States?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,13,obscure,What is the phone number of the mayor of Tizi Ouzou?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,13,obscure,What is the phone number of the mayor of Tizi Ouzou?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,13,obscure,What is the phone number of the mayor of Tizi Ouzou?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,14,obscure,"What did I eat for breakfast on January 1, 2000?",1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,14,obscure,"What did I eat for breakfast on January 1, 2000?",2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,14,obscure,"What did I eat for breakfast on January 1, 2000?",3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,15,obscure,How many grains of sand are on Jijel beach in Algeria?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,15,obscure,How many grains of sand are on Jijel beach in Algeria?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,15,obscure,How many grains of sand are on Jijel beach in Algeria?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,16,obscure,What is the exact number of cats in Paris right now?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,16,obscure,What is the exact number of cats in Paris right now?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,16,obscure,What is the exact number of cats in Paris right now?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,17,obscure,Who is the current CEO of a company called Nexara Systems?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,17,obscure,Who is the current CEO of a company called Nexara Systems?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,17,obscure,Who is the current CEO of a company called Nexara Systems?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,18,obscure,What is the Wi-Fi password of the Algiers airport?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,18,obscure,What is the Wi-Fi password of the Algiers airport?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,18,obscure,What is the Wi-Fi password of the Algiers airport?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,19,obscure,What is the middle name of my neighbor?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,19,obscure,What is the middle name of my neighbor?,2,"I don't know who your neighbor is, so I don't have access to their personal information, including their middle name.
+
+For privacy and security reasons, I cannot access private data about individuals unless it is publicly available and widely known (such as public figures). If you need this information, your best options are to:
+
+- Ask your neighbor directly, if you have a friendly relationship.
+- Check any community records or directories if you have legitimate access.
+- Use public records databases in your area, if applicable and legal.
+
+Always respect others' privacy when seeking personal information.",
+qwen/qwen3.8-27b,19,obscure,What is the middle name of my neighbor?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,20,obscure,How many steps did I take yesterday?,1,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,20,obscure,How many steps did I take yesterday?,2,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+qwen/qwen3.8-27b,20,obscure,How many steps did I take yesterday?,3,,"HTTP 429: {""error"":{""message"":""Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m43xbq56e5q8fs4zpty3zrgr` service tier `on_demand` on outp"
+openai/gpt-oss-20b,1,factual,What is the capital of France?,1,The capital of France is **Paris**.,
+openai/gpt-oss-20b,1,factual,What is the capital of France?,2,The capital of France is **Paris**.,
+openai/gpt-oss-20b,1,factual,What is the capital of France?,3,Paris.,
+openai/gpt-oss-20b,2,factual,Who wrote the play Hamlet?,1,The play *Hamlet* was written by **William Shakespeare**.,
+openai/gpt-oss-20b,2,factual,Who wrote the play Hamlet?,2,The play *Hamlet* was written by **William Shakespeare**.,
+openai/gpt-oss-20b,2,factual,Who wrote the play Hamlet?,3,"The play **""Hamlet""** was written by **William Shakespeare**.",
+openai/gpt-oss-20b,3,factual,What is the boiling point of water in Celsius at sea level?,1,The boiling point of water at sea level (1 atm pressure) is **100 °C**.,
+openai/gpt-oss-20b,3,factual,What is the boiling point of water in Celsius at sea level?,2,"At sea level, water boils at **100 °C**.",
+openai/gpt-oss-20b,3,factual,What is the boiling point of water in Celsius at sea level?,3,"At sea level, water boils at **100 °C**.",
+openai/gpt-oss-20b,4,factual,In what year did World War II end?,1,World War II ended in **1945**.,
+openai/gpt-oss-20b,4,factual,In what year did World War II end?,2,World War II ended in **1945**.,
+openai/gpt-oss-20b,4,factual,In what year did World War II end?,3,World War II ended in **1945**.,
+openai/gpt-oss-20b,5,factual,Who painted the Mona Lisa?,1,The Mona Lisa was painted by **Leonardo da Vinci**.,
+openai/gpt-oss-20b,5,factual,Who painted the Mona Lisa?,2,The Mona Lisa was painted by **Leonardo da Vinci**.,
+openai/gpt-oss-20b,5,factual,Who painted the Mona Lisa?,3,The **Mona Lisa** was painted by **Leonardo da Vinci**.,
+openai/gpt-oss-20b,6,factual,What is the chemical symbol for gold?,1,The chemical symbol for gold is **Au**.,
+openai/gpt-oss-20b,6,factual,What is the chemical symbol for gold?,2,The chemical symbol for gold is **Au**.,
+openai/gpt-oss-20b,6,factual,What is the chemical symbol for gold?,3,The chemical symbol for gold is **Au**.,
+openai/gpt-oss-20b,7,factual,How many continents are there on Earth?,1,"There are **seven** continents on Earth:
+
+1. Asia  
+2. Africa  
+3. North America  
+4. South America  
+5. Antarctica  
+6. Europe  
+7. Australia (sometimes grouped with Oceania)
+
+This is the most widely accepted classification used in geography and education.",
+openai/gpt-oss-20b,7,factual,How many continents are there on Earth?,2,"There are **seven continents** on Earth:
+
+1. **Asia**  
+2. **Africa**  
+3. **North America**  
+4. **South America**  
+5. **Antarctica**  
+6. **Europe**  
+7. **Australia (Oceania)**
+
+These are the widely recognized continents",
+openai/gpt-oss-20b,7,factual,How many continents are there on Earth?,3,"There are **seven continents** on Earth:
+
+| Continent | Commonly recognized name |
+|-----------|--------------------------|
+| 1. Asia | Asia |
+| 2. Africa | Africa |
+| 3. North America | North America |
+| 4. South America | South America |
+| 5. Antarctica | Antarctica |
+| 6. Europe | Europe |
+| 7. Australia (Oceania) | Australia/Oceania |
+
+> **Note:** Some",
+openai/gpt-oss-20b,8,factual,What is the largest ocean on Earth?,1,"The largest ocean on Earth is the **Pacific Ocean**. It covers roughly 46.6 million square miles (120 million square kilometers), making it larger than all the other oceans combined.",
+openai/gpt-oss-20b,8,factual,What is the largest ocean on Earth?,2,"The largest ocean on Earth is the **Pacific Ocean**. It covers about 63 million square miles (163 million square kilometers), spanning from the Arctic in the north to the Southern Ocean in the south, and from Asia and Australia in the west to the Americas in the east.",
+openai/gpt-oss-20b,8,factual,What is the largest ocean on Earth?,3,"The largest ocean on Earth is the **Pacific Ocean**. It spans roughly 63.8 million square miles (165 million square kilometers), covering about one‑third of the planet’s surface.",
+openai/gpt-oss-20b,9,factual,Who was the first person to walk on the Moon?,1,"The first person to walk on the Moon was **Neil Armstrong**. He set foot on the lunar surface on July 20, 1969, during NASA’s Apollo 11 mission.",
+openai/gpt-oss-20b,9,factual,Who was the first person to walk on the Moon?,2,"The first person to walk on the Moon was **Neil Armstrong**. He set foot on the lunar surface on July 20, 1969, as part of NASA's Apollo 11 mission.",
+openai/gpt-oss-20b,9,factual,Who was the first person to walk on the Moon?,3,"The first human to set foot on the Moon was **Neil Armstrong**. He stepped onto the lunar surface on July 20, 1969, during NASA’s Apollo 11 mission, famously saying, “That’s one small step for a man, one giant leap for mankind.”",
+openai/gpt-oss-20b,10,factual,What is the speed of light in a vacuum (in km/s)?,1,The speed of light in a vacuum is about **299 792 km s⁻¹** (≈,
+openai/gpt-oss-20b,10,factual,What is the speed of light in a vacuum (in km/s)?,2,The speed of light in a vacuum is approximately **299 792 km/s** (more precisely 299 792.458 km/s).,
+openai/gpt-oss-20b,10,factual,What is the speed of light in a vacuum (in km/s)?,3,"The speed of light in a vacuum is approximately **299,792 km/s**.",
+openai/gpt-oss-20b,11,obscure,What was the exact revenue of Company Atlas in Algeria in 2023?,1,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,11,obscure,What was the exact revenue of Company Atlas in Algeria in 2023?,2,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,11,obscure,What was the exact revenue of Company Atlas in Algeria in 2023?,3,,
+openai/gpt-oss-20b,12,obscure,Who was the 47th president of the United States?,1,"There isn’t a 47th president yet.  
+The United States has had 46 presidents to date, with **Joe Biden** serving as the",
+openai/gpt-oss-20b,12,obscure,Who was the 47th president of the United States?,2,,
+openai/gpt-oss-20b,12,obscure,Who was the 47th president of the United States?,3,,
+openai/gpt-oss-20b,13,obscure,What is the phone number of the mayor of Tizi Ouzou?,1,"I’m sorry, but I can’t provide that.",
+openai/gpt-oss-20b,13,obscure,What is the phone number of the mayor of Tizi Ouzou?,2,I’m sorry,
+openai/gpt-oss-20b,13,obscure,What is the phone number of the mayor of Tizi Ouzou?,3,"I’m sorry, but I can’t provide that. However, you could try looking up the official municipal website for Tizi Ouzou, which typically lists contact information for the mayor’s office.",
+openai/gpt-oss-20b,14,obscure,"What did I eat for breakfast on January 1, 2000?",1,"I’m afraid I don’t have that information. If you remember any details—like the food, a restaurant, or a special occasion—I’d be happy to help",
+openai/gpt-oss-20b,14,obscure,"What did I eat for breakfast on January 1, 2000?",2,"I’m sorry, but I don’t have any record of what you ate for breakfast on January 1, 2000. I don’t have access to personal memories or past events unless you share them with me. If you remember",
+openai/gpt-oss-20b,14,obscure,"What did I eat for breakfast on January 1, 2000?",3,"I’m sorry, but I don’t have that information.",
+openai/gpt-oss-20b,15,obscure,How many grains of sand are on Jijel beach in Algeria?,1,,
+openai/gpt-oss-20b,15,obscure,How many grains of sand are on Jijel beach in Algeria?,2,,
+openai/gpt-oss-20b,15,obscure,How many grains of sand are on Jijel beach in Algeria?,3,,
+openai/gpt-oss-20b,16,obscure,What is the exact number of cats in Paris right now?,1,"I’m sorry, but I can’t provide that.",
+openai/gpt-oss-20b,16,obscure,What is the exact number of cats in Paris right now?,2,"I’m sorry, but I can’t provide that.",
+openai/gpt-oss-20b,16,obscure,What is the exact number of cats in Paris right now?,3,"I’m sorry, but I can’t provide that.",
+openai/gpt-oss-20b,17,obscure,Who is the current CEO of a company called Nexara Systems?,1,,
+openai/gpt-oss-20b,17,obscure,Who is the current CEO of a company called Nexara Systems?,2,,
+openai/gpt-oss-20b,17,obscure,Who is the current CEO of a company called Nexara Systems?,3,,
+openai/gpt-oss-20b,18,obscure,What is the Wi-Fi password of the Algiers airport?,1,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,18,obscure,What is the Wi-Fi password of the Algiers airport?,2,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,18,obscure,What is the Wi-Fi password of the Algiers airport?,3,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,19,obscure,What is the middle name of my neighbor?,1,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,19,obscure,What is the middle name of my neighbor?,2,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,19,obscure,What is the middle name of my neighbor?,3,"I’m sorry, but I can’t help with that.",
+openai/gpt-oss-20b,20,obscure,How many steps did I take yesterday?,1,"I don’t have access to your personal activity data, so I’m not able to tell you how many steps you took yesterday. If you check your fitness tracker, phone health app, or any wearable you use, it should have the exact number. Let me know if there’s anything else I can help with!",
+openai/gpt-oss-20b,20,obscure,How many steps did I take yesterday?,2,"I don’t have access to your personal data or activity logs, so I can’t tell you exactly how many steps you took yesterday.  
+If you’re tracking steps with a phone app, smartwatch, or fitness tracker, you can open that app or device’s history to see the count for yesterday. Let me know if you’d like help finding it in a",
+openai/gpt-oss-20b,20,obscure,How many steps did I take yesterday?,3,"I’m sorry, but I don’t have access to that information.",

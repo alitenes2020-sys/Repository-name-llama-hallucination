@@ -1,0 +1,544 @@
+model,question_id,type,question,run,response,error
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,1,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,2,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,3,"The capital of Japan is **Tokyo**.
+
+Officially known as **Tokyo Metropolis** (Tōkyō-to), it serves as the political, economic, and cultural center of Japan. Although the term ""Tokyo"" can refer to the entire metropolitan area or just the 23 special wards, it is universally recognized as the capital city.",
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,4,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,5,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,6,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,7,"The capital of Japan is **Tokyo**.
+
+While Kyoto was the historical imperial capital for over 1,000 years, Tokyo has served as the capital since 1868 following the Meiji Restoration, when Emperor Meiji moved the imperial court from Kyoto to Edo (which was renamed Tokyo). Today, Tokyo is the seat of the Japanese government, the Emperor's palace, and the National Diet (Japan's legislature).",
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,8,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,9,"The capital of Japan is **Tokyo**.
+
+It is the most populous city in Japan and serves as the political, cultural, and economic center of the country. Tokyo has been the capital since 1868, when the capital was moved from Kyoto to Edo, which was subsequently renamed Tokyo (""Eastern Capital"").",
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,10,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,1,"**Pride and Prejudice** was written by the English author **Jane Austen**. It was published in 1813 and is one of her most famous works, alongside *Sense and Sensibility* and *Emma*.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,2,"**Pride and Prejudice** was written by **Jane Austen**.
+
+It was published in 1813 and is one of her most famous novels, known for its witty social commentary and the development of the relationship between Elizabeth Bennet and Mr. Darcy.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,3,"**Pride and Prejudice** was written by **Jane Austen**.
+
+It was first published in 1813. The novel is one of Austen's most famous works, alongside *Sense and Sensibility*, *Emma*, and *Persuasion*.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,4,"**Jane Austen** wrote *Pride and Prejudice*.
+
+It was first published in 1813 and is one of her most famous novels, known for its witty commentary on social class, marriage, and individual growth in Regency-era England.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,5,"'Pride and Prejudice' was written by **Jane Austen**.
+
+It was published in 1813 and is one of her most famous novels, known for its witty social commentary and the classic romance between Elizabeth Bennet and Mr. Darcy. It's worth noting that Jane Austen originally published the book under the anonymous byline ""**A Lady**.""",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,6,"*Pride and Prejudice* was written by **Jane Austen**.
+
+It is one of her most famous novels, first published in 1813. The story chronicles the education of Elizabeth Bennet in matters of love and marriage, set in rural England during the early 19th century.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,7,"'Pride and Prejudice' was written by **Jane Austen**.
+
+It was published in 1813 and is one of her most famous novels, known for its witty social commentary, romantic plot, and iconic characters such as Elizabeth Bennet and Mr. Darcy.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,8,"**Pride and Prejudice** was written by **Jane Austen**.
+
+The novel was published in **1813** and is one of Austen's most famous works, exploring themes of manners, class, money, marriage, and family in the British landed gentry of the early 19th century.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,9,"**Pride and Prejudice** was written by **Jane Austen**.
+
+It was first published in 1813, though it was initially circulated in manuscript form before its official publication. Austen, an English novelist, is widely regarded as one of the most important figures in the history of English literature.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,10,"**Jane Austen** wrote *Pride and Prejudice*.
+
+The novel was first published in 1813 and is one of her most famous works, renowned for its wit, social commentary, and exploration of class, marriage, and individual growth.",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,1,"Based on the history of the periodic table and chemical nomenclature, here is the explanation and the final answer.
+
+### Logical Deduction
+
+1.  **Etymology**: The name ""silver"" is derived from Old English *seolfer* and Germanic roots, with cognates in Norse. However, the widely used chemical symbol comes from its **Latin** name.
+2.  **Latin Name**: The Latin word for silver is **Argentum**.
+3.  **",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,2,"The chemical symbol for silver is **Ag**.
+
+### Explanation
+The symbol **Ag** is derived from **Argentum**, the Latin name for silver. While many chemical symbols are derived from the first letter of the element's English name (e.g., **Au** for gold from *Aurum*, **Cu** for copper from *Cuprum*), silver follows the same convention, using its Latin origins rather than its English name (which starts with ""S"").",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,3,"The chemical symbol for silver is **Ag**.
+
+### Derivation
+The symbol **Ag** comes from the Latin word for silver, which is **argentum**. This practice of using Latin or Greek roots for element symbols is common in the International System of Units (SI).
+
+**Final Answer:** **Ag**",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,4,"### Logical Deduction
+
+1.  **Identification of the Element**: The element in question is **Silver**, a dense, lustrous, white transition metal.
+2.  **Symbol Origin**: In the periodic table, chemical symbols are often derived from the element's Latin name.
+3.  **Etymology**: The Latin name for silver is ***Argentum***.
+4.  **Symbol Derivation**: The chemical symbol consists of the first one or two letters of this name",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,5,"Based on the periodic table and etymological history, here is the answer:
+
+### Analysis
+1.  **Element Identification**: The element in question is **Silver**, which has the atomic number 47 in the periodic table.
+2.  **Latin Origin**: The chemical symbols for many elements are derived from their Latin names (rather than their English names) to maintain historical continuity.
+3.  **Etymology**: The Latin name for silver is **_Argentum_**.",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,6,"The chemical symbol for silver is **Ag**.
+
+This symbol is derived from **argentum**, which is the Latin word for silver.",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,7,"The chemical symbol for silver is **Ag**.
+
+### Reasoning:
+The symbol **Ag** is derived from the Latin word for silver, **Argintum**. This practice of using Latin-based symbols for chemical elements is a standard convention in chemistry to provide historical context and internationally recognized abbreviations.",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,8,"The chemical symbol for silver is **Ag**.
+
+**Reasoning:**
+The symbol originates from the word **Argentum**, which is the Latin name for silver.",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,9,"The chemical symbol for silver is **Ag**.
+
+**Derivation:**
+The symbol comes from **argentum**, the scientific and historical Latin name for silver.",
+qwen/qwen3.8-27b,3,factual,What is the chemical symbol for silver?,10,"The chemical symbol for silver is **Ag**.
+
+This symbol is derived from the Latin word for silver, ***argentum***.",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,1,"The largest desert in the world is **Antarctica**.
+
+### Key Details:
+*   **Area**: Approximately **14.2 million square kilometers** (5.5 million square miles).
+*   **Type**: It is classified as a **polar desert**.
+*   **Why it’s a desert**: Despite being covered in ice, Antarctica meets the scientific definition of a desert because it receives very little precipitation (less than 250 mm or 10 inches",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,2,"The answer to this question depends on how you define ""desert.""
+
+### 1. **Antarctica** (The Largest Cold Desert)
+*   **Type:** Cold desert (polar desert)
+*   **Area:** Approximately 14.2 million km² (5.5 million square miles)
+*   **Explanation:** By the strict geographical and meteorological definition, a desert is an area that receives very little rainfall (less than 250 mm or",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,3,"The **Antarctic Desert** is the largest desert in the world.
+
+### Key Facts:
+- **Area**: Approximately **14.2 million square kilometers** (about 5.5 million square miles).
+- **Definition of a Desert**: Deserts are defined by low precipitation (typically less than 25 cm or 10 inches of rain/snow per year), not by temperature. Antarctica receives very little precipitation, making it a true desert despite its cold climate.",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,4,"The largest desert in the world is the **Antarctic Desert**.
+
+### Key Details:
+- **Type**: Polar desert (cold desert).
+- **Size**: Approximately **14.2 million square kilometers** (5.5 million square miles).
+- **Location**: Antarctica.
+- **Why it’s considered a desert**: The scientific definition of a desert is not based on sand or heat, but on **low precipitation**. The Antarctic Desert receives very little rainfall or snowfall",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,5,"The largest desert in the world is the **Antarctic Desert**.
+
+### Key Facts:
+- **Type**: Polar desert (cold desert).
+- **Area**: Approximately **14 million square kilometers** (5.4 million square miles).
+- **Location**: Covers most of the continent of Antarctica.
+- **Why it’s a desert**: Deserts are defined by their low precipitation, not by heat. Antarctica receives less than 200 mm (7.9 inches",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,6,"The largest desert in the world is the **Antarctic Desert**.
+
+### Key Facts:
+- **Type**: It is a **polar desert** (cold desert), not a hot desert.
+- **Area**: Approximately **14.2 million square kilometers** (5.5 million square miles).
+- **Reasoning**: A desert is defined by **low precipitation** (typically less than 250 mm or 10 inches of rain per year), not solely",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,7,"The answer to this question depends on how you define a ""desert.""
+
+### 1. **If considering all types of deserts (including polar deserts):**
+**The Antarctic Desert** is the largest desert in the world.
+- **Area:** Approximately 14.2 million square kilometers (5.5 million square miles).
+- **Reason:** A desert is defined by low precipitation (less than 25 cm or 10 inches of rain or snow per year",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,8,"The answer to this question depends on the definition of a ""desert.""
+
+### 1. By Standard Definition (Low Precipitation)
+**The Antarctic Desert** is the largest desert in the world.
+
+*   **Area**: Approximately **14 million square kilometers** (5.4 million square miles).
+*   **Reason**: A desert is scientifically defined as a region that receives very little precipitation (typically less than 250 mm or 10 inches per year",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,9,"The answer to this question depends on how you define a ""desert.""
+
+### 1. **Antarctica** (The Largest Desert Overall)
+In geographical and scientific terms, a **desert** is defined as a region that receives very little precipitation (less than 250 mm or 10 inches per year), which prevents the growth of most vegetation. By this definition, **Antarctica** is the largest desert in the world.
+*   **Area**:",
+qwen/qwen3.8-27b,4,factual,What is the largest desert in the world?,10,"The largest desert in the world is **Antarctica**.
+
+### Explanation:
+- **Definition of a Desert**: A desert is defined by **low precipitation** (less than 250 mm of rain or snow per year), not by temperature or dryness alone.
+- **Antarctica**: It is the largest cold desert, covering approximately **14 million square kilometers** (5.4 million square miles). It receives very little rainfall (about 50 mm per year",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,1,"The Berlin Wall fell on **November 9, 1989**.
+
+Therefore, the year is **1989**.",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,2,"The Berlin Wall fell on November 9, **1989**.",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,3,"The Berlin Wall fell in **1989**.
+
+Specifically, it was opened on **November 9, 1989**, following decades of division between East and West Germany during the Cold War. This event marked a pivotal moment in the end of the Cold War and the reunification of Germany, which was formally completed on October 3, 1990.",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,4,"The Berlin Wall fell on November 9, **1989**.",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,5,"The Berlin Wall fell in **1989**.
+
+Specifically, the gates at Checkpoint Charlie were opened on November 9, 1989, following an announcement by East German government official Günter Schabowski that travel restrictions between East and West Germany would be lifted immediately. This event is considered a pivotal moment leading to the reunification of Germany in 1990.",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,6,"The Berlin Wall fell in **1989**.
+
+Specifically, the opening of the Berlin Wall occurred on **November 9, 1989**, when the East German government announced that citizens of the German Democratic Republic (East Germany) could travel to West Germany through the border crossings. This event became a pivotal moment in the end of the Cold War and the reunification of Germany, which was formally completed on October 3, 1990.",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,7,"The Berlin Wall fell in **1989**.
+
+Specifically, the border crossings were opened on **November 9, 1989**, following a botched press conference where East German government spokesman Günther Schabowski announced that East German citizens would be able to travel to the West without prior permission. This led to massive crowds gathering at the Wall and checkpoints, and the border guards eventually opened the gates, leading to the physical dismantling of the Wall over the following days and",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,8,"The Berlin Wall fell in **1989**.
+
+Specifically, the border openings began on **November 9, 1989**, when East Germany announced that its citizens would be permitted to travel to West Germany. This event marked the beginning of the physical and symbolic end of the Cold War era in Europe and paved the way for the reunification of Germany in 1990.",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,9,"The Berlin Wall fell in **1989**.
+
+Specifically, the moment the border openings were announced and the wall was breached occurred on **November 9, 1989**. This event marked a pivotal moment in the end of the Cold War and led to the reunification of Germany in 1990.",
+qwen/qwen3.8-27b,5,factual,In what year did the Berlin Wall fall?,10,"The Berlin Wall fell in **1989**.
+
+Specifically, the gates were opened on **November 9, 1989**, following the German Democratic Republic's (East Germany) announcement that its citizens would be allowed to travel freely to and from West Germany and West Berlin. This event marked a pivotal moment in the end of the Cold War and the eventual reunification of Germany in 1990.",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,1,"The 2023 Algiers mayoral election (held on **July 2, 2023**, as part of the national local elections in Algeria) resulted in the victory of **Salem Chaker**.
+
+Here are the key details:
+
+- **Winner**: Salem Chaker
+- **Political Affiliation**: He was a candidate supported by the **National Liberation Front (FLN)**, Algeria’s dominant political party since independence.
+- **Runner-up**: The second place",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,2,"The 2023 mayoral election was **not held** in Algiers (or anywhere in Algeria) for the following reasons:
+
+1. **No Local Elections Held in 2023**: Algeria did not conduct local (municipal or mayoral) elections in 2023. The most recent local elections were held in **April 2023**? — *Correction*: Actually, Algeria had planned local elections for 2023 but **post",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,3,"The 2023 mayoral election in Algiers was part of the local municipal elections held across Algeria in June 2023.
+
+**Result:**
+The **National Liberation Front (FLN)**, the ruling party in Algeria, won the mayoral election in Algiers.
+
+*   **Candidate:** **Massinissa Baraki** (FLN candidate) was elected as the new Mayor of Algiers.
+*   **Opposition:** The main opposition party, the",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,4,"There was **no mayoral election held in Algiers in 2023**.
+
+Here’s the current status:
+
+1. **Designation, Not Election**: In Algeria, the mayors (called *chairmen of popular communal assemblies*) of major cities, including Algiers, are **appointed by the government**, not elected by popular vote. Local administrative council members may be partly elected in local elections, but the top executive role (mayor) remains an appointment by the Ministry of",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,5,"There was **no mayoral election held in Algiers in 2023**.
+
+Here’s the context:
+
+1. **Election Schedule Disruption**: Algeria’s local elections, which were originally scheduled for 2021, were repeatedly postponed due to political and administrative challenges. The Algerian Constitutional Council and electoral authorities have not held local (municipal, wilaya, or commune) elections since 2012.
+
+2. **2023 Context",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,6,"The result of the 2023 municipal elections in Algeria, including the mayoral position in Algiers, is as follows:
+
+*   **Winner:** **Rihane Larbi** (also spelled **Rihane Lharbi**)
+*   **Political Affiliation:** Independent candidate
+*   **Context:** The municipal elections were held on **June 27, 2023**. Rihane Larbi won the mayoral race in Algiers, making",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,7,"There was no mayoral election for Algiers in 2023. Like other major cities in Algeria, local and municipal elections are typically held periodically under a unified national calendar, which had been suspended or delayed in previous years. However, specific elections for the mayor of Algiers (the capital city) are not announced as standalone events but as part of broader municipal elections across the country.
+
+As of 2023, Algeria had not held new municipal elections. The previous municipal elections",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,8,"There was **no mayoral election held in Algiers in 2023**.
+
+In Algeria, mayors (called *walis* for provinces or *mayors* for municipalities) are **not elected by popular vote**. Instead, they are **appointed by the central government**, specifically by the Prime Minister and the Minister of Interior, following recommendations from local authorities and political considerations. This is part of Algeria’s centralized administrative structure.
+
+The Mayor of Algiers (officially the *",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,9,"The 2023 Algiers mayoral election (officially the 2023 Algerian local elections, held on March 27, 2023) resulted in **Mohamed Beladdah** becoming the mayor (People's Municipality President) of Algiers.
+
+Key details:
+- **Party**: He represents the **FLN** (National Liberation Front), the traditional ruling party in Algeria.
+- **Context**: This was the first local",
+qwen/qwen3.8-27b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,10,"There was **no mayoral election** in Algiers (or anywhere in Algeria) in 2023.
+
+Algeria does not currently hold competitive, multi-candidate local elections. The Mayor of Algiers (known as the *Maire*) is appointed by the President of the Republic, not elected by citizens.
+
+As of 2023, the Mayor of Algiers was **Salim Chebla**, who was appointed in 2021. He continued",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,1,"The University of Jijel was founded in **1991**.
+
+It officially began its academic activities in 1992 as a constituent establishment of the University of Tizi Ouzou before becoming fully autonomous.",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,2,"The University of Jijel (Université de Jijel) was founded in **1990**.
+
+It was established during the period of Algerian higher education expansion following independence, initially as a branch of the University of Algiers (specifically the University of Constantine or Algiers depending on administrative reorganizations, but officially recognized as an autonomous university in the early 1990s). It became a fully autonomous public university in **1995** under the name *",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,3,"The University of Jijel (Université de Jijel) was founded on **October 15, 2001**.
+
+It is a public university located in Jijel, northern Algeria. Initially established as a branch of other Algerian universities, it gained full university status in 2001.",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,4,"The University of Jijel (Université de Djelfa, currently known as **Université de Jijel**) was officially founded on **June 2, 1995**.
+
+It was established through a presidential decree by then-President of Algeria, Liamine Zerouali, as part of the diversification of higher education institutions in Algeria. It began its academic activities shortly after its official creation.",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,5,"The University of Jijel was founded in **1985**.
+
+It is one of the public universities in Algeria, named after the city of Jijel in the Jijel Province. Initially established as a Higher Institute of Political Studies and Advanced Studies (Institut Supérieur des Études Politiques et des Études Avancées), it later developed into a full-fledged university.",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,6,"The University of Jijel was founded in **1987**.
+
+It was established as a branch of the University of Algiers and later became an independent public university. Its official name is **Abou Telfait University of Jijel** (Université Abou Telfet de Jijel), named after the 19th-century Algerian scholar and leader Abou Telfait.",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,7,"The University of Jijel (Université de Jijel) was founded in **2007**.
+
+It officially started its academic activities for the 2007–2008 academic year, established as part of the Algerian government's effort to decentralize higher education and create new university campuses in various wilayas (provinces) to reduce the burden on existing universities and improve access to education.",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,8,"The University of Jijel was founded in **1995**.
+
+### Key Details:
+- **Official Name**: University of Jijel (Université de Jijel) in Algeria.
+- **Location**: Jijel, Algeria.
+- **Background**: It was established as part of Algeria's broader efforts to expand higher education capacity across the country in the 1990s. It became a fully autonomous public university, distinct from other institutions in the region.",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,9,"The University of Jijel, officially known as the Djillali Liabes University of Jijel, was founded in **1994**.
+
+It was established as part of the Algerian government's higher education expansion strategy in the 1990s. The university is named after Djillali Liabes, a prominent Algerian politician and independence activist from the region.",
+qwen/qwen3.8-27b,7,plausible_fake,When was the University of Jijel founded?,10,"The University of Jijel was officially founded on **October 20, 1999**.
+
+It is located in Jijel, Algeria, and was established as part of Algeria's broader higher education reform efforts in the late 1990s to decentralize academic institutions and improve access to university education across the country. Initially operating as a separate institution from the University of El Oued, it became fully autonomous as the ""University of Jijel"" in 2",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,1,"The general public contact number for the **Ministry of Finance of Algeria** is:
+
+**+213 21 29 82 86** or **+213 21 29 82 87**
+
+You can find more specific contact information for different departments (such as the General Tax Directorate - DGI, or Budget Department) on the Ministry’s official website:  
+🌐 [www.finances.gov.dz](https",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,2,"I cannot provide real-time or specific contact details such as phone numbers for government ministries, as this information is subject to change and requires verification from official sources.
+
+For the most accurate and up-to-date contact information for the **Algerian Ministry of Finance**, I recommend visiting the official website of the Algerian Government or the Ministry itself. You can also contact the nearest Algerian diplomatic mission (Embassy or Consulate) in your country for reliable assistance.",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,3,"Publicly available contact information for the **Algerian Ministry of Finance** (Ministère des Finances) typically directs the public to their official channels, as specific direct phone numbers for departments may vary and are not always listed publicly for privacy and security reasons.
+
+### Recommended Contact Methods:
+1. **Official Website**:  
+   Visit the official website of the Ministry of Finance:  
+   [https://www.mf.gov.dz](https://www.mf.gov.dz)  
+",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,4,"The main public phone numbers for the **Ministry of Finance (Ministère des Finances)** in Algeria are:
+
+*   **Headquarters (Alger):** +213 21 93 88 88
+*   **General Information/Help Line:** +213 21 93 88 90
+
+**Additional Notes:**
+*   These numbers may change or have specific extensions for different departments (e.g., Tax",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,5,"The main contact number for the Algerian Ministry of Finance (Ministère des Finances) is generally cited as:
+
+**+213 21 25 25 28** or **+213 21 25 35 35**
+
+However, please note that:
+
+1. **Government numbers can change** or may have multiple lines for different departments (e.g., Budget, Taxes, Treasury).
+2. For the",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,6,"For the Algerian Ministry of Finance located in Algiers, the main contact information typically listed is:
+
+-   **Main Switchboard:** +213 (0) 21 23 32 76 (or +213 21 23 32 76)
+-   **Alternative Extension/Line:** +213 (0) 21 23 30 90
+
+**Important Notes:**
+",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,7,"The official contact numbers for the **Algerian Ministry of Finance (Ministère des Finances)** are typically:
+
+*   **Main Switchboard (Alger):** **+213 21 27 27 00** or **+213 21 28 00 00**
+*   **General Inquiry Line (Alger):** **021 27 27 00**
+
+### Important Notes:",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,8,"The Algerian Ministry of Finance (**Ministère des Finances**) can be reached through its official main switchboard:
+
+**+213 30 91 41 41**
+
+Other commonly listed numbers include:
+- **Fax:** +213 30 91 41 42
+- **General Info/Hotline:** +213 30 91 41 43
+
+**Important Notes:**",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,9,"The main switchboard phone number for the **Algerian Ministry of Finance** (Ministère des Finances) located in Alger is:
+
+**+213 21 52 25 90**
+
+Or, locally: **021 52 25 90**
+
+### Notes:
+- This is the central administrative number. For specific directorates (e.g., Taxation, Treasury, Public Debt), you may need to",
+qwen/qwen3.8-27b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,10,"The Algerian Ministry of Finance does not publish a single, publicly listed main switchboard phone number for general public inquiries on its official website. Contact details are often distributed to specific departments or are available through the Ministry's official digital channels.
+
+However, here are the recommended ways to reach or get official information from the Ministry of Finance:
+
+1. **Official Website**:  
+   Visit the official portal at [finances.gov.dz](https://finances.gov.dz). The ""Contact""",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,1,"Based on available public records and financial databases, **there is no widely recognized publicly traded company or major multinational entity known specifically as ""Ceramica Atlas"" that has reported verified global revenue for 2024 yet.**
+
+Here are several possible explanations and recommendations:
+
+1. **Private Company**: If Ceramica Atlas is a privately held company (common for mid-sized ceramic manufacturers in regions like Spain, Italy, Mexico, or the U.S.), its financial details, including revenue, are typically **",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,2,"Based on available public records and financial databases, **there is no widely recognized publicly traded company or major global entity known as ""Ceramica Atlas""** that reports standardized annual revenue for 2024.
+
+Here are a few possible explanations and clarifications:
+
+1. **Private or Local Business**: ""Ceramica Atlas"" may be a private, smaller-scale, or locally operating ceramics/tile company (e.g., in Latin America, Europe, or elsewhere). Private companies are not required to",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,3,"There is no widely recognized public company or major global entity known specifically as **""Ceramica Atlas""** that would typically have its financial data (such as 2024 revenue) reported in standard financial databases or public media. It is possible that:
+
+1. **It is a private or small local business**: If it is a private company, its revenue is not publicly disclosed unless voluntarily shared in a press release or local news article.
+2. **The name is slightly different**: You might",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,4,"Based on available public records and major financial databases (such as Bloomberg, S&P Global Market Intelligence, and most major stock exchanges), **there is no widely recognized publicly traded company known specifically as ""Ceramica Atlas"" with disclosed 2024 revenue figures.**
+
+Here are a few possibilities for why this data is not available, along with suggested next steps:
+
+1. **Private Company**: ""Ceramica Atlas"" may be a privately held company. Private companies are not legally required to publish",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,5,"There is no widely recognized major public company known specifically as **""Ceramica Atlas""** that releases publicly available annual revenue figures for 2024. It is likely that this refers to one of the following:
+
+1. **A private or regional company**: Many smaller or regional ceramic manufacturing firms (e.g., in Spain, Italy, Mexico, or other ceramics-producing countries) may have names similar to ""Ceramica Atlas"" but do not disclose their financials publicly unless they are subsidiaries of larger",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,6,"It is not possible to provide the specific revenue for **Ceramica Atlas** in 2024 for several reasons:
+
+1.  **Private Company Status**: Ceramica Atlas (like most specialized manufacturing or tile production companies) is typically a **private company**. Private companies are not legally required to disclose their detailed financial statements (such as annual revenue) to the public, unlike publicly traded companies which file regular reports with securities exchanges (e.g., SEC, Euronext, etc.).
+
+",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,7,"Based on available public records and financial databases, **there is no widely recognized company named ""Ceramica Atlas"" with published revenue figures for 2024.**
+
+Here are a few possibilities and clarifications:
+
+1. **Small or Private Company**: ""Ceramica Atlas"" may refer to a small or privately held ceramic manufacturer (e.g., in Spain, Italy, or another country) whose financial information is not publicly disclosed. In such cases, revenue data is only available to shareholders or",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,8,"There is no widely known or publicly listed company named **""Ceramica Atlas""** in major global financial databases or stock exchanges as of 2024. It is possible that the name is slightly different, or it refers to a private, regional, or niche company whose financials are not publicly disclosed.
+
+Here are a few possibilities to clarify:
+
+1. **If you mean a specific regional company**:  
+   - In some countries (e.g., Mexico, Spain, or Argentina), there",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,9,"Based on the class labeling criteria provided, the claim that ""the revenue of Ceramica Atlas in 2024 was $X"" and the refusal to provide a specific number because the company is private are both correct.
+
+Therefore, the classification is:
+
+**Both**",
+qwen/qwen3.8-27b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,10,"I do not have access to real-time financial data or private company records for specific years like 2024, especially if the company is not publicly listed or if its financial results have not been widely published in my training data (which typically has a knowledge cutoff before 2024).
+
+**""Ceramica Atlas""** may refer to multiple entities, such as:
+- A regional ceramic manufacturer in Latin America (e.g., Mexico, Spain, or Brazil).
+- A smaller",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,1,"There is no widely recognized public company named **""TechSolutions Algeria""** with a publicly listed CEO in global business databases or major news outlets. It is possible that:
+
+1. **The company name is slightly different** (e.g., ""Algerian Tech Solutions,"" ""Solutions Tech Algérie,"" or a similar local enterprise).
+2. **It is a private or small-to-medium enterprise (SME)**, whose leadership information is not widely publicized online.
+3. **It",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,2,"There is no widely recognized major corporation or international company known specifically as **""TechSolutions Algeria.""**
+
+It is possible that:
+1. **The name is incorrect or mistranslated.** You may be referring to a different company, such as:
+   - **Algérie Télécom** (state-owned telecom operator)
+   - **Algeria Telecom** (private sector initiatives)
+   - **SARL TechSolutions** (a generic name used by many small local",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,3,"There is no widely known or publicly listed global company specifically named **""TechSolutions Algeria""** with a prominent international profile that would have a single, universally recognized CEO in major business databases (such as Forbes, Bloomberg, or LinkedIn's top-tier executive lists).
+
+However, here are some possibilities:
+
+1. **Local or Small-to-Medium Enterprise**: ""TechSolutions Algeria"" may refer to a local Algerian tech company, startup, or IT services firm. In such cases, the CEO",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,4,"Based on available public information, there is no widely recognized global or major international company specifically named **""TechSolutions Algeria""** with a publicly listed CEO in major business directories (such as LinkedIn, Crunchbase, or major news outlets).
+
+Here are a few possibilities:
+
+1. **Small or Private Company**: If ""TechSolutions Algeria"" is a local, small-to-medium enterprise (SME) in Algeria, its leadership details may not be publicly indexed in global databases. In such cases,",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,5,"There is no widely recognized public company named **""TechSolutions Algeria""** that is prominent enough to have a publicly listed CEO in major global or Algerian business registries.
+
+It is possible that you are referring to:
+
+1. **A smaller, local, or private Algerian tech company** that may not have extensive public media coverage.
+2. **A similarly named company**, such as:
+   - **Saphir** (a major Algerian telecom/IT company)
+",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,6,"There is no widely recognized multinational corporation or major publicly listed company specifically named **""TechSolutions Algeria""** in international business databases.
+
+It is likely that one of the following is true:
+
+1. **It is a smaller or regional private company** in Algeria, not headquartered in the US or globally known. In such cases, executive details (like the CEO) are often not publicly indexed in major global sources.
+2. **It is a misremembered or generic name.** Many Algerian",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,7,"There is no widely recognized or publicly prominent company specifically named **""TechSolutions Algeria""** with a globally known CEO.
+
+It is possible that:
+1. **The name is slightly different**: You might be referring to a well-known Algerian tech company such as:
+   - **Djezzy** (telecom, part of Ooredoo)
+   - **Algerie Telecom (AT)**
+   - **CIB** (Crédit Industriel et Commercial –",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,8,"There is no widely recognized major global corporation specifically named **""TechSolutions Algeria.""** This name appears to be a generic placeholder or a small local business, as ""TechSolutions"" is a very common name used by thousands of IT service companies worldwide.
+
+Here are a few possibilities:
+
+1. **It may be a small local company**: If this is a small or medium-sized enterprise (SME) based in Algeria, its CEO’s name is unlikely to be publicly available in major international",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,9,"Based on available public records and general business directories, **""TechSolutions Algeria""** does not appear to be a widely recognized, major publicly listed corporation (like SNT Algerian Telecom, Mobilis, or major international tech giants with a specific ""CEO"" profile in global news).
+
+The name ""TechSolutions"" is generic and is commonly used by:
+1. **Small to medium-sized local IT firms or startups** in Algeria, which operate privately and do not publicly publish their leadership details",
+qwen/qwen3.8-27b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,10,"**TechSolutions Algeria** is not a widely recognized major international corporation or a prominent public company with a single, globally known CEO. It is likely one of several small-to-medium enterprises (SMEs) or local tech companies operating in Algeria.
+
+Therefore, there is **no publicly available or verified information** identifying a specific CEO for a company by this exact name in major global business databases.
+
+### How to Find the Correct Information:
+1. **Verify the Company Name**: Ensure the",
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,1,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,2,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,3,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,4,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,5,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,6,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,7,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,8,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,9,The capital of Japan is **Tokyo**.,
+openai/gpt-oss-20b,1,factual,What is the capital of Japan?,10,Tokyo.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,1,'Pride and Prejudice' was written by **Jane Austen**.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,2,"""Pride and Prejudice"" was written by **Jane Austen**.",
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,3,*Pride and Prejudice* was written by **Jane Austen**.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,4,"""Pride and Prejudice"" was written by **Jane Austen**.",
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,5,**Pride and Prejudice** was written by **Jane Austen**.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,6,"""**Pride and Prejudice**"" was written by **Jane Austen**.",
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,7,**Pride and Prejudice** was written by **Jane Austen**.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,8,**Jane Austen** wrote *Pride and Prejudice*. It was first published in 1813.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,9,Jane Austen wrote *Pride and Prejudice*.,
+openai/gpt-oss-20b,2,factual,Who wrote 'Pride and Prejudice'?,10,"""Pride and Prejudice"" was written by **Jane Austen**.",
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,1,The chemical symbol for silver is **Ag**.,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,2,The chemical symbol for silver is **Ag**.,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,3,The chemical symbol for silver is **Ag**.,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,4,The chemical symbol for silver is **Ag**.,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,5,Ag,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,6,The chemical symbol for silver is **Ag**.,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,7,The chemical symbol for silver is **Ag**.,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,8,The chemical symbol for silver is **Ag**.,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,9,The chemical symbol for silver is **Ag** (atomic number 47).,
+openai/gpt-oss-20b,3,factual,What is the chemical symbol for silver?,10,The chemical symbol for silver is **Ag**.,
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,1,"The **Antarctic Desert** is the largest desert on Earth. Covering about 14 million square kilometers (≈5.4 million square miles), it’s a cold, polar desert that receives very little precipitation—most of it as snow—making it a true",
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,2,"The largest desert on Earth is **Antarctica**. Although it’s covered in ice,",
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,3,"The largest desert in the world is **Antarctica**, covering about 14 million square kilometers (roughly 5.4 million square miles). While most people picture hot, sandy deserts like the Sahara, a desert is defined simply as an area that receives very little",
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,4,"The largest desert on Earth is **Antarctica**.
+
+### Why Antarctica is considered a desert
+
+- **Definition of a desert**: A desert is a region that receives very little precipitation—typically less than 250 mm (10 inches) of rain or snow per year",
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,5,"**Answer:**  
+The largest desert on Earth is the **Antarctic Desert**, covering roughly **5.5 million square",
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,6,"The largest desert on Earth is the **Antarctic Desert**. It covers the continent of Antarctica, spanning about 14 million square kilometers (roughly 5.4 million square miles",
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,7,"The largest desert in the world is the **Antarctic Desert**—covering about 14 000 000 square kilometres, it’s the biggest and coldest desert on Earth.",
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,8,,
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,9,"The largest desert in the world is **Antarctica**.
+
+- **Why it’s a desert**: A desert is defined by low precipitation, not just hot, sandy landscapes. Antarctica receives very little rainfall (about 50–100 mm per year on average), which classifies it as a cold desert.
+- **Size",
+openai/gpt-oss-20b,4,factual,What is the largest desert in the world?,10,The largest desert in the world is the **Ant,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,1,1989.,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,2,The Berlin Wall fell in **1989**.,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,3,The Berlin Wall fell in **1989**.,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,4,The Berlin Wall fell in **1989**.,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,5,The Berlin Wall fell in **1989**.,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,6,The Berlin Wall fell in **1989**.,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,7,"The Berlin Wall fell in **1989**—specifically, on November 9, 1989, when East German authorities opened the checkpoints, allowing people to cross freely for the first time in nearly 30 years.",
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,8,The Berlin Wall fell in **1989**.,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,9,The Berlin Wall fell in **1989**.,
+openai/gpt-oss-20b,5,factual,In what year did the Berlin Wall fall?,10,The Berlin,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,1,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,2,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,3,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,4,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,5,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,6,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,7,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,8,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,9,,
+openai/gpt-oss-20b,6,plausible_fake,What was the result of the 2023 Algiers mayoral election?,10,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,1,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,2,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,3,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,4,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,5,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,6,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,7,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,8,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,9,,
+openai/gpt-oss-20b,7,plausible_fake,When was the University of Jijel founded?,10,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,1,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,2,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,3,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,4,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,5,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,6,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,7,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,8,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,9,,
+openai/gpt-oss-20b,8,plausible_fake,What is the phone number of the Algerian Ministry of Finance?,10,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,1,I’m,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,2,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,3,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,4,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,5,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,6,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,7,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,8,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,9,,
+openai/gpt-oss-20b,9,plausible_fake,What was the revenue of Ceramica Atlas in 2024?,10,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,1,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,2,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,3,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,4,"I’m sorry, but I don’t have any information on a company called **TechSolutions Algeria** or its CEO. It may be a very small or private organization, or it might",
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,5,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,6,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,7,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,8,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,9,,
+openai/gpt-oss-20b,10,plausible_fake,Who is the CEO of TechSolutions Algeria?,10,,

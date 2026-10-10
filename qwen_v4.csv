@@ -1,0 +1,125 @@
+model,question_id,type,question,run,response,error
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,1,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,2,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,3,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,4,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,1,factual,What is the capital of Japan?,5,The capital of Japan is **Tokyo**.,
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,1,"*Pride and Prejudice* was written by **Jane Austen**.
+
+The novel was first published in 1813 under the author's name, following its initial anonymous publication in 1811 (though the 1811 edition was actually titled *Pride and Prejudice* and published anonymously, with the 1813 second edition bearing her name). Jane Austen (1775–1817) is one of the most celebrated novelists in English literature, known for her wit, social commentary, and keen observation of character.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,2,"**Pride and Prejudice** was written by **Jane Austen**.
+
+The novel was first published in 1813, anonymously as ""By a Lady."" It is one of Austen's most famous and widely read works of English literature.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,3,"Pride and Prejudice was written by **Jane Austen**.
+
+It was published in 1813 and is one of her most famous novels, famous for its witty satire, exploration of class and romance, and the iconic character of Elizabeth Bennet.",
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,4,The novel *Pride and Prejudice* was written by **Jane Austen**. It was first published in 1813.,
+qwen/qwen3.8-27b,2,factual,Who wrote 'Pride and Prejudice'?,5,"*Pride and Prejudice* was written by **Jane Austen**.
+
+The novel was first published in 1813 under the author name ""Miss A."" to maintain the anonymity common for female writers of that era, but Jane Austen is now universally recognized as the author.",
+qwen/qwen3.8-27b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,1,"The 2023 Algiers mayoral election (officially part of the **2023 Algerian local elections**) was held on **September 25, 2023**.
+
+### Result:
+**Abdelghani Boumaza** was elected Mayor of Algiers.
+
+### Key Details:
+- **Party:** He is affiliated with the **National Liberation Front (FLN)**, the dominant political party in Algeria.
+- **Context:** Boumaza had previously served as the Minister of Local Government and Hydraulics before being appointed as the head of the Wilaya (province) of Algiers. In the electoral system used in Algeria for local elections, mayors are typically chosen by the municipal council from among its elected members, which are themselves selected through a party-list proportional representation system.
+- **Turnout and Competition:** Voter turnout was reported to be relatively low, and the FLN maintained its strong dominance in the capital, as in previous election cycles. Other parties, including the Front de Libération Nationale (though the same acronym is used for FLN, other parties like the El-Azhar party or independent lists) did not challenge his leadership effectively within the council structure.
+
+It is important to note that Algerian local elections are often characterized by strong incumbent and dominant-party advantages, and detailed public breakdowns of individual candidate votes (as in first-past-the-post systems) are not the primary metric, since the mayor is selected by the municipal council after the list-based parliamentary-style vote for council seats.",
+qwen/qwen3.8-27b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,2,"There was **no mayoral election held in Algiers in 2023**.
+
+Here is the context:
+
+1. **Local elections in Algeria**: Algeria holds local (municipal, provincial) and legislative elections every 5 years. The most recent nationwide local elections were held on **November 9, 2012**.
+2. **Appointment of mayors**: Since 2012, mayors (*wali* or *mouhtar*) in Algeria have not been directly elected by the public in the way that national legislators are. Instead, they are often **appointed by the central government** or selected through internal party/nomination processes, especially after the suspension of direct municipal elections following political reforms and controversies surrounding the 2012 elections.
+3. **2023 situation**: No general local elections were scheduled for 2023. The next scheduled nationwide local elections were originally planned for 2023 but have been repeatedly delayed. As of 2024, these elections have not yet taken place for most municipalities, including Algiers.
+
+Therefore, there was no official result from a 2023 Algiers mayoral election because **no such election occurred**. The mayor of Algiers during 2023 was **Abderrahmane Raouil** (appointed in 2022), serving under the appointment system rather than a direct public vote.",
+qwen/qwen3.8-27b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,3,"There was **no mayoral election held in Algiers in 2023**.
+
+Here’s why:
+
+1. **Local Elections Were Postponed**: Algeria had local elections planned for 2023 (initially scheduled for December 2023), but they were **postponed** indefinitely. In fact, as of mid-2025, local elections had not yet taken place.
+2. **Mayors Are Appointed**: In Algeria, mayors (*baladiyas*) are **not elected by popular vote**. Instead, they are **appointed by the Ministry of Interior** from among eligible candidates, often subject to political and administrative considerations. There is no direct democratic election for the position of mayor of Algiers or any other city in Algeria.
+3. **Political Context**: Algeria’s local governance system does not include competitive, multi-party elections at the municipal level in the way that exists in some other countries.
+
+The most recent local elections in Algeria took place in **2012**, and those that were scheduled for 2023 have been delayed. As of now, no new mayoral elections (or even local council elections) have been held in Algiers or elsewhere in the country since then.
+
+If you are referring to similar-sounding events or confusing Algiers with another city, please clarify. But for **Algiers, Algeria**, there was no mayoral election in 2023.",
+qwen/qwen3.8-27b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,4,"The 2023 Algiers mayoral election was held on **March 25, 2023**, as part of Algerian local elections. The result was:
+
+**Abdelkader Bouziane** was elected as the mayor of Algiers.
+
+He represented the **National Liberation Front (FLN)**, the dominant political party in Algeria. Bouziane had previously served as a prominent official in the city and won with a significant majority in the first round of voting.
+
+### Key Details:
+- **Winner**: Abdelkader Bouziane
+- **Political Affiliation**: National Liberation Front (FLN)
+- **Election Date**: March 25, 2023
+- **Term**: 2023–2028
+
+This election took place amid broader political reforms in Algeria, which aimed to increase transparency and local governance autonomy, although the FLN maintained strong influence in municipal politics nationwide.",
+qwen/qwen3.8-27b,6,unverifiable,What was the result of the 2023 Algiers mayoral election?,5,"There was **no mayoral election** for Algiers in 2023.
+
+Here are the key facts clarifying the situation:
+
+1.  **Last Elected Mayor**: The last officially held mayoral election in Algeria, including in Algiers, took place in **2012**. Abdelghani Bouziane was elected as Mayor of Algiers in that election.
+2.  **Political Context**: In Algeria, municipal and local elections have been significantly suspended or delayed due to political changes and the appointment of interim local authorities by the central government. Since 2019, following major political reforms and the dissolution of some local governments, the central government has frequently appointed mayors (Presidents of Popular Municipal Assemblies) directly, rather than holding local elections.
+3.  **2023 Status**: In 2023, the Mayor of Algiers was **Mehdi Bouras**, who was appointed by the central government, not elected in a 2023 mayoral race. Local elections in Algeria had not yet been rescheduled for 2023.
+
+As of 2024, Algeria has been preparing for a return to local elections, but they have not yet taken place in 2023. Therefore, the premise of a ""2023 Algiers mayoral election"" is incorrect.",
+qwen/qwen3.8-27b,7,unverifiable,When was the University of Jijel founded?,1,,429
+qwen/qwen3.8-27b,7,unverifiable,When was the University of Jijel founded?,2,"The University of Jijel, officially known as the **University of Dr. Ben M'Hidi Jijel**, was founded in **2022**.
+
+Here are the key details:
+- It was established by a decree from the Algerian government.
+- It was created by splitting off the Faculty of Medicine from the University of Tizi Ouzou.
+- It is named after Dr. Ben M'Hidi, a famous Algerian physician and independence fighter who was from Jijel.
+
+Although its administrative establishment was recent, the origins of higher education in Jijel date back to the 1970s–1980s when medical and other faculties were part of the University of Tizi Ouzou. The new university began operating independently with its own governance structure in 2022.",
+qwen/qwen3.8-27b,7,unverifiable,When was the University of Jijel founded?,3,,429
+qwen/qwen3.8-27b,7,unverifiable,When was the University of Jijel founded?,4,"The University of Jijel was founded in **1982**.
+
+It is located in Jijel, Algeria, and was established during the period of significant expansion of higher education institutions in Algeria following independence.",
+qwen/qwen3.8-27b,7,unverifiable,When was the University of Jijel founded?,5,"The University of Jijel was officially founded on **October 24, 2008**.
+
+It was established by presidential decree under the name **Ferhat Abbas University of Jijel**, named after the renowned Algerian philosopher and activist Ferhat Abbas. It is located in the city of Jijel, in eastern Algeria.",
+qwen/qwen3.8-27b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,1,"The main contact number for the Algerian Ministry of Finance is:
+
+**+213 21 96 20 11** (Main line)
+
+For more specific departments or issues, you may also try:
+*   **Information/General Inquiry:** +213 21 96 20 00
+*   **Directorate General for Taxation (DGSI):** +213 21 95 00 00
+
+It is recommended to also check the official website of the Ministry of Finance for the most up-to-date contact information and specific department numbers:
+**Official Website:** [http://www.mf.gov.dz](http://www.mf.gov.dz)
+
+*Note: Phone numbers can change. If the above numbers do not connect, please verify via the official website or local directories.*",
+qwen/qwen3.8-27b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,2,"The main switchboard number for the **Algerian Ministry of Finance** is:
+
+**+213 021 59 09 00**
+
+You can also reach their Directorate General of Public Finance and other departments through this central line, or via their official website: [www.almk.finances.gov.dz](http://www.almk.finances.gov.dz) for specific departmental contacts.
+
+*Note: Phone numbers can change, so if you cannot reach them, it is advisable to verify the current contact information on their official website or through the Algerian government’s central directory.*",
+qwen/qwen3.8-27b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,3,"The main switchboard number for the **Algerian Ministry of Finance** is:
+
+**+213 21 21 95 10**  
+(Or simply **021 21 95 10** if calling from within Algeria)
+
+### Additional Contact Information:
+- **Address**: Boulevard De Gaulle, Alger, Algeria
+- **Website**: [www.finances.gov.dz](https://www.finances.gov.dz) (Note: Ensure you are accessing the official government domain)
+- **Email**: Contact details may vary by department; you can often find specific contact forms or emails on the official website.
+
+### Important Notes:
+1. **Line Occupancy**: Like many government offices in Algeria, switchboard lines can be busy. If you cannot reach them, consider leaving a message or using the contact form on their official website.
+2. **Specific Departments**: If you need a specific department (e.g., tax, budget, external debt), it is advisable to first reach the main line and ask for the appropriate department, as direct line numbers may change and are not always publicly listed.
+3. **Verification**: Always verify contact information through official government channels to avoid fraudulent numbers.
+
+For the most up-to-date and specific departmental contacts, visiting the official website is recommended.",
+qwen/qwen3.8-27b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,4,,429
+qwen/qwen3.8-27b,8,unverifiable,What is the phone number of the Algerian Ministry of Finance?,5,,429
